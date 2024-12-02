@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "ProjetMobileAndroid",
+    "slug": "ProjetMobileAndroid",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.plunity.ProjetMobileAndroid"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "09f01e4c-5c22-4e31-aaaa-26c192c4af6b"
+      }
+    },
+    "scheme": "ProjetMobileAndroid"
+  }
+}
